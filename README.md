@@ -5,4 +5,4 @@ My portfolio
 Gender recognition web application using cnn model.
 Dataset and model were collected and trained by myself.
 
-![](images/eska%20tv.png)
+![](/images/eska%20tv.png)
