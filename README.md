@@ -46,6 +46,8 @@ In this project I use 3 different models (Linear Regression, K-nearest neighbors
 In this analysis I will try to predict player_height using features from dataset. There is strong correlation between player_height and player_weight that's why I decided to drop player_weight column to find usefull correlations in other features.
 
 
+![](/images/project3_image1_fixed.png)
+
 After analysing dataset and applying linear regression models to try predict player_height target value I came to few conclusions.
 First of all at the beginning I thought that there's strong correlation between player_height and features like offensive, defensive rebound.
 As a basketball fan I always thought that biggest and tallest players usually grabs most rebounds, but after analysing dataset we can clearly see that there's very low correlation of 0.589033 for offensive rebounds and 0.614650 for defensive rebounds.
