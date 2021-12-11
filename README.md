@@ -8,7 +8,7 @@ Keras Sequential model with Conv2D, MaxPooling2D layers was build on dataset tha
 Validation accuracy fluctuates between 89-92%.
 
 ![](/images/photo_1_fix2.png)
-![](/images/photo_1_fix2.png)
+![](/images/photo_2_fixed.png)
 
 
 Training procees is using Convolutional Neural Networks is shared [here](https://www.kaggle.com/maciejgronczynski/cnn-sequential-gender-recognition-model)
