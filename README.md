@@ -20,6 +20,9 @@ Dataset and model were collected and trained by myself.
 ![](/images/eska%20tv.png)
 
 
+
+
+
 # [Project 2 - Stroke prediction](https://www.kaggle.com/maciejgronczynski/stroke-prediction-eda-lr-k-nearest-xgboost)
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 This project presents how to use machine learning approach to predict whether a patient is likely to get stroke based on the input parameters like
