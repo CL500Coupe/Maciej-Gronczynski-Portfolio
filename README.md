@@ -24,9 +24,13 @@ According to the World Health Organization (WHO) stroke is the 2nd leading cause
 This project presents how to use machine learning approach to predict whether a patient is likely to get stroke based on the input parameters like
 gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
 
+![](/images/project2_image1_fixed.png)
+
 Main objective is to classify/predict if a particular person based on their parameters is likely to have a stroke.
 This anaylsis might be very helpful and interesting in case of real-world problems as strokes account for as much as 11% of all deaths in the world.
 To sum up, I'm going to create my target variable y(stroke 0=no,1=yes) and try to predict output using features(basically rest of the columns) using different classification models.
+
+![](/images/project2_image2_fixed.png)
 
 In this project I use 3 different models (Linear Regression, K-nearest neighbors and XGBoost) and compare them to each other.
 
