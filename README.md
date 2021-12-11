@@ -17,7 +17,7 @@ by myself and it's public and free to use on [kaggle](https://www.kaggle.com/mac
 
 Dataset and model were collected and trained by myself.
 
-![](/images/eska%20tv.png)
+![](/images/streamlit_image.png)
 
 
 
