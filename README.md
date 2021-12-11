@@ -4,8 +4,12 @@ My portfolio
 # [Project 1](https://share.streamlit.io/cl500coupe/gender_recognition_app/main/app.py)
 Face detection and Gender recognition web application hosted on streamlit.io.
 I used 18000 images of faces split into two categories (man,woman). Each image is 180 by 180 pixels.
+![](/images/photo_2.png)
+
 Keras Sequential model with Conv2D, MaxPooling2D layers was build on dataset that was previously autotuned and normalised.
 Validation accuracy fluctuates between 89-92%.
+![](/images/photo_1.png)
+
 
 Training procees is using Convolutional Neural Networks is shared [here](https://www.kaggle.com/maciejgronczynski/cnn-sequential-gender-recognition-model)
 
