@@ -1,6 +1,6 @@
 Portfolio
 
-# [Dissertation Project - Predicting Stock Price 21 days into the future 80% accuracy]([https://share.streamlit.io/cl500coupe/gender_recognition_app/main/app.py](https://www.kaggle.com/code/maciejgronczynski/kghm-stock-price-prediction-21-days-in-future-80#5.Building-model-(RANDOM-FOREST-CLASSIFIER)))
+# [Dissertation Project - Predicting Stock Price 21 days into the future 80% accuracy](https://www.kaggle.com/code/maciejgronczynski/kghm-stock-price-prediction-21-days-in-future-80#5.Building-model-(RANDOM-FOREST-CLASSIFIER))
 
 
 
