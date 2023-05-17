@@ -1,6 +1,11 @@
 Portfolio
 
 # [Dissertation Project - Predicting Stock Price 21 days into the future 80% accuracy](https://www.kaggle.com/code/maciejgronczynski/kghm-stock-price-prediction-21-days-in-future-80#5.Building-model-(RANDOM-FOREST-CLASSIFIER))
+
+In this project, I successfully developed a machine learning model to predict stock market trends using a Random Forest Classifier. The model was trained and tested on historical market data, demonstrating a solid performance with an accuracy of almost 80%.
+
+Dataset was collected and pre-processed by me can be accessed [here](https://www.kaggle.com/datasets/maciejgronczynski/cooper-mining-company-stock-price-prediction)
+
 ![](/images/predi.png)
 
 
