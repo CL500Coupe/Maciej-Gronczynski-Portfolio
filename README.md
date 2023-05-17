@@ -6,7 +6,7 @@ In this project, I successfully developed a machine learning model to predict st
 
 Dataset was collected and pre-processed by me can be accessed [here](https://www.kaggle.com/datasets/maciejgronczynski/cooper-mining-company-stock-price-prediction)
 
-![](/images/predi.png)
+![](/images/predi2.png)
 
 
 # [Project A - Face detection & gender classification](https://share.streamlit.io/cl500coupe/gender_recognition_app/main/app.py)
