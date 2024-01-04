@@ -3,9 +3,8 @@ Portfolio
 # GIF test
 
 
+![dt_video 1](https://github.com/CL500Coupe/Maciej-Gronczynski-Portfolio/assets/63499090/dc3ebf9a-e221-48ea-9fd9-15af0fa6d8cd)
 
-
-https://github.com/CL500Coupe/Maciej-Gronczynski-Portfolio/assets/63499090/4a965b8f-81b5-4852-9fd6-59a78cc730fc
 
 
 
