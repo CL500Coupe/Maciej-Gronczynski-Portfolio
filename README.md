@@ -3,7 +3,7 @@ Portfolio
 # Doomtrooper DataSight: AI-Powered Card Recognition and Dataset Compilation
 ![final_gif](https://github.com/CL500Coupe/Maciej-Gronczynski-Portfolio/assets/63499090/bd1ec431-ef57-457c-a40d-0a7ee5ffd7f6)
 
-In this innovative project, I've meticulously compiled a dataset of over 1000 unique cards from the classic Doomtrooper card game, which is accessible for viewing here. Utilizing a custom script, I automated the data collection process by extracting card information through a webcam. The above GIF demonstrates this fascinating procedure, and the script's code is available for review here.
+In this innovative project, I've meticulously compiled a dataset of over 1000 unique cards from the classic Doomtrooper card game, which is accessible for viewing [here](https://www.kaggle.com/datasets/maciejgronczynski/doomtrooper-ccg-all-cards). Utilizing a custom script, I automated the data collection process by extracting card information through a webcam. The above GIF demonstrates this fascinating procedure, and the script's code is available for review here.
 
 
 
