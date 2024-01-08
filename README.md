@@ -1,13 +1,16 @@
 Portfolio
 
+# Explore my personal collection of datasets, all created and compiled by me
+1.  [Biggest gender/face recognition dataset](https://www.kaggle.com/datasets/maciejgronczynski/biggest-genderface-recognition-dataset)
+2. [Copper Mining Company - Stock Price Prediction](https://www.kaggle.com/datasets/maciejgronczynski/cooper-mining-company-stock-price-prediction)
+3. [Doomtrooper CCG (All cards)](https://www.kaggle.com/datasets/maciejgronczynski/doomtrooper-ccg-all-cards)
+4. [Vehicle Classification - Dataset](https://www.kaggle.com/datasets/maciejgronczynski/vehicle-classification-dataset)
+5. [Current NBA Players](https://www.kaggle.com/datasets/maciejgronczynski/current-nba-players)
+
 # Doomtrooper DataSight: AI-Powered Card Recognition and Dataset Compilation
 ![final_gif](https://github.com/CL500Coupe/Maciej-Gronczynski-Portfolio/assets/63499090/bd1ec431-ef57-457c-a40d-0a7ee5ffd7f6)
 
 In this innovative project, I've meticulously compiled a dataset of over 1000 unique cards from the classic Doomtrooper card game, which is accessible for viewing [here](https://www.kaggle.com/datasets/maciejgronczynski/doomtrooper-ccg-all-cards). Utilizing a custom script, I automated the data collection process by extracting card information through a webcam. The above GIF demonstrates this fascinating procedure, and the script's code is available for review [here](https://github.com/CL500Coupe/Doomtrooper-DataSight-AI-Powered-Card-Recognition-and-Dataset-Compilation).
-
-
-
-
 
 
 # [Dissertation Project - Predicting Stock Price 21 days into the future 80% accuracy](https://www.kaggle.com/code/maciejgronczynski/kghm-stock-price-prediction-21-days-in-future-80#5.Building-model-(RANDOM-FOREST-CLASSIFIER))
